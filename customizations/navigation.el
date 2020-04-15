@@ -60,3 +60,7 @@
 
 ;; projectile everywhere!
 (projectile-global-mode)
+
+;; rebind other window command and enable windmove for S-<arrow=key>
+(global-set-key (kbd "M-o") 'other-window)
+(windmove-default-keybindings)
