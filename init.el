@@ -144,10 +144,11 @@
  ;; If there is more than one, they won't work right.
  '(clojure-align-forms-automatically t)
  '(coffee-tab-width 2)
+ '(delete-selection-mode t)
  '(js-chain-indent t)
  '(package-selected-packages
    (quote
-    (magit tagedit rainbow-delimiters projectile smex ido-completing-read+ cider clojure-mode-extra-font-locking clojure-mode paredit exec-path-from-shell))))
+    (company magit tagedit rainbow-delimiters projectile smex ido-completing-read+ cider clojure-mode-extra-font-locking clojure-mode paredit exec-path-from-shell))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
