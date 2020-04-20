@@ -148,7 +148,7 @@
  '(js-chain-indent t)
  '(package-selected-packages
    (quote
-    (prettier-js xref-js2 js2-refactor js2-mode solarized-theme company magit tagedit rainbow-delimiters projectile smex ido-completing-read+ cider clojure-mode-extra-font-locking clojure-mode paredit exec-path-from-shell))))
+    (ag tide prettier-js xref-js2 js2-refactor js2-mode solarized-theme company magit tagedit rainbow-delimiters projectile smex ido-completing-read+ cider clojure-mode-extra-font-locking clojure-mode paredit exec-path-from-shell))))
 
 (custom-set-faces
  ;; custom-set-faces was added by Custom.

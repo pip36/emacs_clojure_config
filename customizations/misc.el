@@ -13,3 +13,5 @@
 
 ;; Set binding for magit-status
 (global-set-key (kbd "C-x g") 'magit-status)
+
+(setq find-program "\"C:/Program Files/Git/usr/bin/find.exe\"")
